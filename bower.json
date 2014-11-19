@@ -12,5 +12,10 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "angular-xclick": "*",
+    "angular-xform": "*",
+    "angular-xmodal": "*"
+  }
 }
