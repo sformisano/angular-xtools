@@ -1,0 +1,16 @@
+{
+  "name": "angular-xtools",
+  "version": "0.0.0",
+  "authors": [
+    "Salvatore Formisano <formisanosalvatore@gmail.com>"
+  ],
+  "main": "angular-xtools.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
